@@ -1,4 +1,4 @@
-## 제목
+## 깃허브 꾸미기
 ### 본문
 #### 설명
 
@@ -31,3 +31,9 @@ print('hello word')
    
    강조는 다음과 같이 작성할 수 있습니다.
    **강조** ~~취소~~입니다.
+
+
+
+
+깃허브 스킬배지 꾸미기
+https://github.com/Ileriayo/markdown-badges
