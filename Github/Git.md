@@ -13,11 +13,15 @@ print('hello word')
 [블로그 주소](https://blog.naver.com/whdgus928)
 
  순서 없는 목록은 다음과 같이 작성할 수 있습니다.
- 
- * 깃 튜토리얼
-  * 깃 come
+* 깃 튜토리얼
+ * 깃 come
   * 깃 pull
-   *깃 commit1
+   * 깃 commit1
+ 계층별로 나누고 싶으면 tab을 삽입한다.
+
+
+
+
    
    인용구문은 다음과 같이 작성할 수 있습니다.
    > '공부합시다' - 백종현 -
