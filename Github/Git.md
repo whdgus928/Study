@@ -1,3 +1,5 @@
+제목은 다음과 같이 작성할 수 있습니다.
+
 ## 깃허브 꾸미기
 ### 본문
 #### 설명
@@ -12,7 +14,7 @@ print('hello word')
 
 [블로그 주소](https://blog.naver.com/whdgus928)
 
- 순서 없는 목록은 다음과 같이 작성할 수 있습니다.
+순서 없는 목록은 다음과 같이 작성할 수 있습니다.
 * 깃 튜토리얼
  * 깃 come
   * 깃 pull
@@ -34,12 +36,14 @@ print('hello word')
    
    
    강조는 다음과 같이 작성할 수 있습니다.
+   
    **강조** ~~취소~~입니다.
 
 
 
 
 깃허브 스킬배지 꾸미기
+
 https://github.com/Ileriayo/markdown-badges
 
 
